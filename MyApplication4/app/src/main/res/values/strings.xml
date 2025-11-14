@@ -1,0 +1,15 @@
+<resources>
+    <string name="StudentForm">My Application</string>
+
+        <string-array name="facultyList">
+            <item>BCA</item>
+
+            <item>BIT</item>
+            <item>BBA</item>
+            <item>BHM</item>
+
+
+
+        </string-array>
+
+</resources>
